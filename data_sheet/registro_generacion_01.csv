@@ -1,0 +1,301 @@
+﻿identidad;impresion;grupo_origen;transformacion;parametros;imagen_origen;imagen_generada
+Huellas_1;1;H1_I01;original;{};Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\original\imp_01_original.png
+Huellas_1;1;H1_I01;rotacion;"{""angulo_grados"": 20}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_01_rotacion.png
+Huellas_1;1;H1_I01;traslacion;"{""tx"": -10, ""ty"": -15}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_01_traslacion.png
+Huellas_1;1;H1_I01;escalado;"{""factor"": 1.15}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\escalado\imp_01_escalado.png
+Huellas_1;1;H1_I01;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\elastica\imp_01_elastica.png
+Huellas_1;1;H1_I01;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\presion\imp_01_presion.png
+Huellas_1;1;H1_I01;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_01_gaussiano.png
+Huellas_1;1;H1_I01;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_01_sal_pimienta.png
+Huellas_1;1;H1_I01;recorte;"{""lado"": ""derecha"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\recorte\imp_01_recorte.png
+Huellas_1;1;H1_I01;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\1.png;Huellas_1\Impression_py\generacion_01\contraste\imp_01_contraste.png
+Huellas_1;2;H1_I02;original;{};Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\original\imp_02_original.png
+Huellas_1;2;H1_I02;rotacion;"{""angulo_grados"": -20}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_02_rotacion.png
+Huellas_1;2;H1_I02;traslacion;"{""tx"": -10, ""ty"": 1}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_02_traslacion.png
+Huellas_1;2;H1_I02;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\escalado\imp_02_escalado.png
+Huellas_1;2;H1_I02;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\elastica\imp_02_elastica.png
+Huellas_1;2;H1_I02;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\presion\imp_02_presion.png
+Huellas_1;2;H1_I02;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_02_gaussiano.png
+Huellas_1;2;H1_I02;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_02_sal_pimienta.png
+Huellas_1;2;H1_I02;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\recorte\imp_02_recorte.png
+Huellas_1;2;H1_I02;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\2.png;Huellas_1\Impression_py\generacion_01\contraste\imp_02_contraste.png
+Huellas_1;3;H1_I03;original;{};Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\original\imp_03_original.png
+Huellas_1;3;H1_I03;rotacion;"{""angulo_grados"": -20}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_03_rotacion.png
+Huellas_1;3;H1_I03;traslacion;"{""tx"": 13, ""ty"": -1}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_03_traslacion.png
+Huellas_1;3;H1_I03;escalado;"{""factor"": 1.15}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\escalado\imp_03_escalado.png
+Huellas_1;3;H1_I03;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\elastica\imp_03_elastica.png
+Huellas_1;3;H1_I03;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\presion\imp_03_presion.png
+Huellas_1;3;H1_I03;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_03_gaussiano.png
+Huellas_1;3;H1_I03;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_03_sal_pimienta.png
+Huellas_1;3;H1_I03;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\recorte\imp_03_recorte.png
+Huellas_1;3;H1_I03;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\3.png;Huellas_1\Impression_py\generacion_01\contraste\imp_03_contraste.png
+Huellas_1;4;H1_I04;original;{};Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\original\imp_04_original.png
+Huellas_1;4;H1_I04;rotacion;"{""angulo_grados"": -20}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_04_rotacion.png
+Huellas_1;4;H1_I04;traslacion;"{""tx"": -2, ""ty"": -15}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_04_traslacion.png
+Huellas_1;4;H1_I04;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\escalado\imp_04_escalado.png
+Huellas_1;4;H1_I04;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\elastica\imp_04_elastica.png
+Huellas_1;4;H1_I04;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\presion\imp_04_presion.png
+Huellas_1;4;H1_I04;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_04_gaussiano.png
+Huellas_1;4;H1_I04;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_04_sal_pimienta.png
+Huellas_1;4;H1_I04;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\recorte\imp_04_recorte.png
+Huellas_1;4;H1_I04;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\4.png;Huellas_1\Impression_py\generacion_01\contraste\imp_04_contraste.png
+Huellas_1;5;H1_I05;original;{};Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\original\imp_05_original.png
+Huellas_1;5;H1_I05;rotacion;"{""angulo_grados"": -10}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_05_rotacion.png
+Huellas_1;5;H1_I05;traslacion;"{""tx"": 8, ""ty"": -9}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_05_traslacion.png
+Huellas_1;5;H1_I05;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\escalado\imp_05_escalado.png
+Huellas_1;5;H1_I05;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\elastica\imp_05_elastica.png
+Huellas_1;5;H1_I05;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\presion\imp_05_presion.png
+Huellas_1;5;H1_I05;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_05_gaussiano.png
+Huellas_1;5;H1_I05;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_05_sal_pimienta.png
+Huellas_1;5;H1_I05;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\recorte\imp_05_recorte.png
+Huellas_1;5;H1_I05;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\5.png;Huellas_1\Impression_py\generacion_01\contraste\imp_05_contraste.png
+Huellas_1;6;H1_I06;original;{};Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\original\imp_06_original.png
+Huellas_1;6;H1_I06;rotacion;"{""angulo_grados"": 20}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_06_rotacion.png
+Huellas_1;6;H1_I06;traslacion;"{""tx"": -8, ""ty"": 14}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_06_traslacion.png
+Huellas_1;6;H1_I06;escalado;"{""factor"": 1.15}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\escalado\imp_06_escalado.png
+Huellas_1;6;H1_I06;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\elastica\imp_06_elastica.png
+Huellas_1;6;H1_I06;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\presion\imp_06_presion.png
+Huellas_1;6;H1_I06;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_06_gaussiano.png
+Huellas_1;6;H1_I06;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_06_sal_pimienta.png
+Huellas_1;6;H1_I06;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\recorte\imp_06_recorte.png
+Huellas_1;6;H1_I06;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\6.png;Huellas_1\Impression_py\generacion_01\contraste\imp_06_contraste.png
+Huellas_1;7;H1_I07;original;{};Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\original\imp_07_original.png
+Huellas_1;7;H1_I07;rotacion;"{""angulo_grados"": -20}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_07_rotacion.png
+Huellas_1;7;H1_I07;traslacion;"{""tx"": -6, ""ty"": -2}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_07_traslacion.png
+Huellas_1;7;H1_I07;escalado;"{""factor"": 1.15}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\escalado\imp_07_escalado.png
+Huellas_1;7;H1_I07;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\elastica\imp_07_elastica.png
+Huellas_1;7;H1_I07;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\presion\imp_07_presion.png
+Huellas_1;7;H1_I07;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_07_gaussiano.png
+Huellas_1;7;H1_I07;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_07_sal_pimienta.png
+Huellas_1;7;H1_I07;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\recorte\imp_07_recorte.png
+Huellas_1;7;H1_I07;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\7.png;Huellas_1\Impression_py\generacion_01\contraste\imp_07_contraste.png
+Huellas_1;8;H1_I08;original;{};Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\original\imp_08_original.png
+Huellas_1;8;H1_I08;rotacion;"{""angulo_grados"": -20}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_08_rotacion.png
+Huellas_1;8;H1_I08;traslacion;"{""tx"": 9, ""ty"": 3}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_08_traslacion.png
+Huellas_1;8;H1_I08;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\escalado\imp_08_escalado.png
+Huellas_1;8;H1_I08;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\elastica\imp_08_elastica.png
+Huellas_1;8;H1_I08;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\presion\imp_08_presion.png
+Huellas_1;8;H1_I08;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_08_gaussiano.png
+Huellas_1;8;H1_I08;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_08_sal_pimienta.png
+Huellas_1;8;H1_I08;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\recorte\imp_08_recorte.png
+Huellas_1;8;H1_I08;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\8.png;Huellas_1\Impression_py\generacion_01\contraste\imp_08_contraste.png
+Huellas_1;9;H1_I09;original;{};Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\original\imp_09_original.png
+Huellas_1;9;H1_I09;rotacion;"{""angulo_grados"": 10}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_09_rotacion.png
+Huellas_1;9;H1_I09;traslacion;"{""tx"": 0, ""ty"": 6}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_09_traslacion.png
+Huellas_1;9;H1_I09;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\escalado\imp_09_escalado.png
+Huellas_1;9;H1_I09;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\elastica\imp_09_elastica.png
+Huellas_1;9;H1_I09;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\presion\imp_09_presion.png
+Huellas_1;9;H1_I09;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_09_gaussiano.png
+Huellas_1;9;H1_I09;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_09_sal_pimienta.png
+Huellas_1;9;H1_I09;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\recorte\imp_09_recorte.png
+Huellas_1;9;H1_I09;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\9.png;Huellas_1\Impression_py\generacion_01\contraste\imp_09_contraste.png
+Huellas_1;10;H1_I10;original;{};Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\original\imp_10_original.png
+Huellas_1;10;H1_I10;rotacion;"{""angulo_grados"": 10}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\rotacion\imp_10_rotacion.png
+Huellas_1;10;H1_I10;traslacion;"{""tx"": 5, ""ty"": 1}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\traslacion\imp_10_traslacion.png
+Huellas_1;10;H1_I10;escalado;"{""factor"": 0.85}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\escalado\imp_10_escalado.png
+Huellas_1;10;H1_I10;elastica;"{""amplitud_px"": 5}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\elastica\imp_10_elastica.png
+Huellas_1;10;H1_I10;presion;"{""metodo"": ""erosion_3x3""}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\presion\imp_10_presion.png
+Huellas_1;10;H1_I10;gaussiano;"{""sigma"": 20}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\gaussiano\imp_10_gaussiano.png
+Huellas_1;10;H1_I10;sal_pimienta;"{""proporcion"": 0.05}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\sal_pimienta\imp_10_sal_pimienta.png
+Huellas_1;10;H1_I10;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\recorte\imp_10_recorte.png
+Huellas_1;10;H1_I10;contraste;"{""factor"": 0.5}";Huellas_1\Impression_1\10.png;Huellas_1\Impression_py\generacion_01\contraste\imp_10_contraste.png
+Huellas_2;1;H2_I01;original;{};Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\original\imp_01_original.png
+Huellas_2;1;H2_I01;rotacion;"{""angulo_grados"": -20}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_01_rotacion.png
+Huellas_2;1;H2_I01;traslacion;"{""tx"": -1, ""ty"": -13}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_01_traslacion.png
+Huellas_2;1;H2_I01;escalado;"{""factor"": 1.15}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\escalado\imp_01_escalado.png
+Huellas_2;1;H2_I01;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\elastica\imp_01_elastica.png
+Huellas_2;1;H2_I01;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\presion\imp_01_presion.png
+Huellas_2;1;H2_I01;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_01_gaussiano.png
+Huellas_2;1;H2_I01;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_01_sal_pimienta.png
+Huellas_2;1;H2_I01;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\recorte\imp_01_recorte.png
+Huellas_2;1;H2_I01;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\1.png;Huellas_2\Impression_py\generacion_01\contraste\imp_01_contraste.png
+Huellas_2;2;H2_I02;original;{};Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\original\imp_02_original.png
+Huellas_2;2;H2_I02;rotacion;"{""angulo_grados"": 10}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_02_rotacion.png
+Huellas_2;2;H2_I02;traslacion;"{""tx"": 3, ""ty"": -5}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_02_traslacion.png
+Huellas_2;2;H2_I02;escalado;"{""factor"": 0.85}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\escalado\imp_02_escalado.png
+Huellas_2;2;H2_I02;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\elastica\imp_02_elastica.png
+Huellas_2;2;H2_I02;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\presion\imp_02_presion.png
+Huellas_2;2;H2_I02;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_02_gaussiano.png
+Huellas_2;2;H2_I02;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_02_sal_pimienta.png
+Huellas_2;2;H2_I02;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\recorte\imp_02_recorte.png
+Huellas_2;2;H2_I02;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\2.png;Huellas_2\Impression_py\generacion_01\contraste\imp_02_contraste.png
+Huellas_2;3;H2_I03;original;{};Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\original\imp_03_original.png
+Huellas_2;3;H2_I03;rotacion;"{""angulo_grados"": -20}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_03_rotacion.png
+Huellas_2;3;H2_I03;traslacion;"{""tx"": 10, ""ty"": -6}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_03_traslacion.png
+Huellas_2;3;H2_I03;escalado;"{""factor"": 0.85}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\escalado\imp_03_escalado.png
+Huellas_2;3;H2_I03;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\elastica\imp_03_elastica.png
+Huellas_2;3;H2_I03;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\presion\imp_03_presion.png
+Huellas_2;3;H2_I03;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_03_gaussiano.png
+Huellas_2;3;H2_I03;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_03_sal_pimienta.png
+Huellas_2;3;H2_I03;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\recorte\imp_03_recorte.png
+Huellas_2;3;H2_I03;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\3.png;Huellas_2\Impression_py\generacion_01\contraste\imp_03_contraste.png
+Huellas_2;4;H2_I04;original;{};Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\original\imp_04_original.png
+Huellas_2;4;H2_I04;rotacion;"{""angulo_grados"": -10}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_04_rotacion.png
+Huellas_2;4;H2_I04;traslacion;"{""tx"": -11, ""ty"": 8}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_04_traslacion.png
+Huellas_2;4;H2_I04;escalado;"{""factor"": 0.85}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\escalado\imp_04_escalado.png
+Huellas_2;4;H2_I04;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\elastica\imp_04_elastica.png
+Huellas_2;4;H2_I04;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\presion\imp_04_presion.png
+Huellas_2;4;H2_I04;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_04_gaussiano.png
+Huellas_2;4;H2_I04;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_04_sal_pimienta.png
+Huellas_2;4;H2_I04;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\recorte\imp_04_recorte.png
+Huellas_2;4;H2_I04;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\4.png;Huellas_2\Impression_py\generacion_01\contraste\imp_04_contraste.png
+Huellas_2;5;H2_I05;original;{};Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\original\imp_05_original.png
+Huellas_2;5;H2_I05;rotacion;"{""angulo_grados"": -20}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_05_rotacion.png
+Huellas_2;5;H2_I05;traslacion;"{""tx"": -5, ""ty"": -11}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_05_traslacion.png
+Huellas_2;5;H2_I05;escalado;"{""factor"": 1.15}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\escalado\imp_05_escalado.png
+Huellas_2;5;H2_I05;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\elastica\imp_05_elastica.png
+Huellas_2;5;H2_I05;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\presion\imp_05_presion.png
+Huellas_2;5;H2_I05;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_05_gaussiano.png
+Huellas_2;5;H2_I05;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_05_sal_pimienta.png
+Huellas_2;5;H2_I05;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\recorte\imp_05_recorte.png
+Huellas_2;5;H2_I05;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\5.png;Huellas_2\Impression_py\generacion_01\contraste\imp_05_contraste.png
+Huellas_2;6;H2_I06;original;{};Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\original\imp_06_original.png
+Huellas_2;6;H2_I06;rotacion;"{""angulo_grados"": 20}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_06_rotacion.png
+Huellas_2;6;H2_I06;traslacion;"{""tx"": 2, ""ty"": 4}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_06_traslacion.png
+Huellas_2;6;H2_I06;escalado;"{""factor"": 0.85}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\escalado\imp_06_escalado.png
+Huellas_2;6;H2_I06;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\elastica\imp_06_elastica.png
+Huellas_2;6;H2_I06;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\presion\imp_06_presion.png
+Huellas_2;6;H2_I06;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_06_gaussiano.png
+Huellas_2;6;H2_I06;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_06_sal_pimienta.png
+Huellas_2;6;H2_I06;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\recorte\imp_06_recorte.png
+Huellas_2;6;H2_I06;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\6.png;Huellas_2\Impression_py\generacion_01\contraste\imp_06_contraste.png
+Huellas_2;7;H2_I07;original;{};Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\original\imp_07_original.png
+Huellas_2;7;H2_I07;rotacion;"{""angulo_grados"": -10}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_07_rotacion.png
+Huellas_2;7;H2_I07;traslacion;"{""tx"": -6, ""ty"": -10}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_07_traslacion.png
+Huellas_2;7;H2_I07;escalado;"{""factor"": 1.15}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\escalado\imp_07_escalado.png
+Huellas_2;7;H2_I07;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\elastica\imp_07_elastica.png
+Huellas_2;7;H2_I07;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\presion\imp_07_presion.png
+Huellas_2;7;H2_I07;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_07_gaussiano.png
+Huellas_2;7;H2_I07;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_07_sal_pimienta.png
+Huellas_2;7;H2_I07;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\recorte\imp_07_recorte.png
+Huellas_2;7;H2_I07;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\7.png;Huellas_2\Impression_py\generacion_01\contraste\imp_07_contraste.png
+Huellas_2;8;H2_I08;original;{};Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\original\imp_08_original.png
+Huellas_2;8;H2_I08;rotacion;"{""angulo_grados"": -10}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_08_rotacion.png
+Huellas_2;8;H2_I08;traslacion;"{""tx"": -2, ""ty"": -8}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_08_traslacion.png
+Huellas_2;8;H2_I08;escalado;"{""factor"": 1.15}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\escalado\imp_08_escalado.png
+Huellas_2;8;H2_I08;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\elastica\imp_08_elastica.png
+Huellas_2;8;H2_I08;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\presion\imp_08_presion.png
+Huellas_2;8;H2_I08;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_08_gaussiano.png
+Huellas_2;8;H2_I08;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_08_sal_pimienta.png
+Huellas_2;8;H2_I08;recorte;"{""lado"": ""derecha"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\recorte\imp_08_recorte.png
+Huellas_2;8;H2_I08;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\8.png;Huellas_2\Impression_py\generacion_01\contraste\imp_08_contraste.png
+Huellas_2;9;H2_I09;original;{};Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\original\imp_09_original.png
+Huellas_2;9;H2_I09;rotacion;"{""angulo_grados"": 10}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_09_rotacion.png
+Huellas_2;9;H2_I09;traslacion;"{""tx"": 4, ""ty"": -6}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_09_traslacion.png
+Huellas_2;9;H2_I09;escalado;"{""factor"": 0.85}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\escalado\imp_09_escalado.png
+Huellas_2;9;H2_I09;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\elastica\imp_09_elastica.png
+Huellas_2;9;H2_I09;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\presion\imp_09_presion.png
+Huellas_2;9;H2_I09;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_09_gaussiano.png
+Huellas_2;9;H2_I09;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_09_sal_pimienta.png
+Huellas_2;9;H2_I09;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\recorte\imp_09_recorte.png
+Huellas_2;9;H2_I09;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\9.png;Huellas_2\Impression_py\generacion_01\contraste\imp_09_contraste.png
+Huellas_2;10;H2_I10;original;{};Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\original\imp_10_original.png
+Huellas_2;10;H2_I10;rotacion;"{""angulo_grados"": 20}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\rotacion\imp_10_rotacion.png
+Huellas_2;10;H2_I10;traslacion;"{""tx"": 2, ""ty"": -1}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\traslacion\imp_10_traslacion.png
+Huellas_2;10;H2_I10;escalado;"{""factor"": 1.15}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\escalado\imp_10_escalado.png
+Huellas_2;10;H2_I10;elastica;"{""amplitud_px"": 5}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\elastica\imp_10_elastica.png
+Huellas_2;10;H2_I10;presion;"{""metodo"": ""erosion_3x3""}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\presion\imp_10_presion.png
+Huellas_2;10;H2_I10;gaussiano;"{""sigma"": 20}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\gaussiano\imp_10_gaussiano.png
+Huellas_2;10;H2_I10;sal_pimienta;"{""proporcion"": 0.05}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\sal_pimienta\imp_10_sal_pimienta.png
+Huellas_2;10;H2_I10;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\recorte\imp_10_recorte.png
+Huellas_2;10;H2_I10;contraste;"{""factor"": 0.5}";Huellas_2\Impression_1\10.png;Huellas_2\Impression_py\generacion_01\contraste\imp_10_contraste.png
+Huellas_3;1;H3_I01;original;{};Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\original\imp_01_original.png
+Huellas_3;1;H3_I01;rotacion;"{""angulo_grados"": 10}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_01_rotacion.png
+Huellas_3;1;H3_I01;traslacion;"{""tx"": -1, ""ty"": -7}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_01_traslacion.png
+Huellas_3;1;H3_I01;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\escalado\imp_01_escalado.png
+Huellas_3;1;H3_I01;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\elastica\imp_01_elastica.png
+Huellas_3;1;H3_I01;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\presion\imp_01_presion.png
+Huellas_3;1;H3_I01;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_01_gaussiano.png
+Huellas_3;1;H3_I01;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_01_sal_pimienta.png
+Huellas_3;1;H3_I01;recorte;"{""lado"": ""derecha"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\recorte\imp_01_recorte.png
+Huellas_3;1;H3_I01;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\1.png;Huellas_3\Impression_py\generacion_01\contraste\imp_01_contraste.png
+Huellas_3;2;H3_I02;original;{};Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\original\imp_02_original.png
+Huellas_3;2;H3_I02;rotacion;"{""angulo_grados"": 20}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_02_rotacion.png
+Huellas_3;2;H3_I02;traslacion;"{""tx"": 7, ""ty"": 2}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_02_traslacion.png
+Huellas_3;2;H3_I02;escalado;"{""factor"": 1.15}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\escalado\imp_02_escalado.png
+Huellas_3;2;H3_I02;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\elastica\imp_02_elastica.png
+Huellas_3;2;H3_I02;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\presion\imp_02_presion.png
+Huellas_3;2;H3_I02;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_02_gaussiano.png
+Huellas_3;2;H3_I02;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_02_sal_pimienta.png
+Huellas_3;2;H3_I02;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\recorte\imp_02_recorte.png
+Huellas_3;2;H3_I02;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\2.png;Huellas_3\Impression_py\generacion_01\contraste\imp_02_contraste.png
+Huellas_3;3;H3_I03;original;{};Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\original\imp_03_original.png
+Huellas_3;3;H3_I03;rotacion;"{""angulo_grados"": -10}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_03_rotacion.png
+Huellas_3;3;H3_I03;traslacion;"{""tx"": 14, ""ty"": 10}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_03_traslacion.png
+Huellas_3;3;H3_I03;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\escalado\imp_03_escalado.png
+Huellas_3;3;H3_I03;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\elastica\imp_03_elastica.png
+Huellas_3;3;H3_I03;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\presion\imp_03_presion.png
+Huellas_3;3;H3_I03;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_03_gaussiano.png
+Huellas_3;3;H3_I03;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_03_sal_pimienta.png
+Huellas_3;3;H3_I03;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\recorte\imp_03_recorte.png
+Huellas_3;3;H3_I03;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\3.png;Huellas_3\Impression_py\generacion_01\contraste\imp_03_contraste.png
+Huellas_3;4;H3_I04;original;{};Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\original\imp_04_original.png
+Huellas_3;4;H3_I04;rotacion;"{""angulo_grados"": -20}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_04_rotacion.png
+Huellas_3;4;H3_I04;traslacion;"{""tx"": 12, ""ty"": 8}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_04_traslacion.png
+Huellas_3;4;H3_I04;escalado;"{""factor"": 1.15}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\escalado\imp_04_escalado.png
+Huellas_3;4;H3_I04;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\elastica\imp_04_elastica.png
+Huellas_3;4;H3_I04;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\presion\imp_04_presion.png
+Huellas_3;4;H3_I04;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_04_gaussiano.png
+Huellas_3;4;H3_I04;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_04_sal_pimienta.png
+Huellas_3;4;H3_I04;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\recorte\imp_04_recorte.png
+Huellas_3;4;H3_I04;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\4.png;Huellas_3\Impression_py\generacion_01\contraste\imp_04_contraste.png
+Huellas_3;5;H3_I05;original;{};Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\original\imp_05_original.png
+Huellas_3;5;H3_I05;rotacion;"{""angulo_grados"": -10}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_05_rotacion.png
+Huellas_3;5;H3_I05;traslacion;"{""tx"": 2, ""ty"": 5}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_05_traslacion.png
+Huellas_3;5;H3_I05;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\escalado\imp_05_escalado.png
+Huellas_3;5;H3_I05;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\elastica\imp_05_elastica.png
+Huellas_3;5;H3_I05;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\presion\imp_05_presion.png
+Huellas_3;5;H3_I05;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_05_gaussiano.png
+Huellas_3;5;H3_I05;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_05_sal_pimienta.png
+Huellas_3;5;H3_I05;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\recorte\imp_05_recorte.png
+Huellas_3;5;H3_I05;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\5.png;Huellas_3\Impression_py\generacion_01\contraste\imp_05_contraste.png
+Huellas_3;6;H3_I06;original;{};Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\original\imp_06_original.png
+Huellas_3;6;H3_I06;rotacion;"{""angulo_grados"": -10}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_06_rotacion.png
+Huellas_3;6;H3_I06;traslacion;"{""tx"": -14, ""ty"": 0}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_06_traslacion.png
+Huellas_3;6;H3_I06;escalado;"{""factor"": 1.15}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\escalado\imp_06_escalado.png
+Huellas_3;6;H3_I06;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\elastica\imp_06_elastica.png
+Huellas_3;6;H3_I06;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\presion\imp_06_presion.png
+Huellas_3;6;H3_I06;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_06_gaussiano.png
+Huellas_3;6;H3_I06;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_06_sal_pimienta.png
+Huellas_3;6;H3_I06;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\recorte\imp_06_recorte.png
+Huellas_3;6;H3_I06;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\6.png;Huellas_3\Impression_py\generacion_01\contraste\imp_06_contraste.png
+Huellas_3;7;H3_I07;original;{};Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\original\imp_07_original.png
+Huellas_3;7;H3_I07;rotacion;"{""angulo_grados"": 10}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_07_rotacion.png
+Huellas_3;7;H3_I07;traslacion;"{""tx"": -1, ""ty"": -8}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_07_traslacion.png
+Huellas_3;7;H3_I07;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\escalado\imp_07_escalado.png
+Huellas_3;7;H3_I07;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\elastica\imp_07_elastica.png
+Huellas_3;7;H3_I07;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\presion\imp_07_presion.png
+Huellas_3;7;H3_I07;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_07_gaussiano.png
+Huellas_3;7;H3_I07;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_07_sal_pimienta.png
+Huellas_3;7;H3_I07;recorte;"{""lado"": ""abajo"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\recorte\imp_07_recorte.png
+Huellas_3;7;H3_I07;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\7.png;Huellas_3\Impression_py\generacion_01\contraste\imp_07_contraste.png
+Huellas_3;8;H3_I08;original;{};Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\original\imp_08_original.png
+Huellas_3;8;H3_I08;rotacion;"{""angulo_grados"": -10}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_08_rotacion.png
+Huellas_3;8;H3_I08;traslacion;"{""tx"": -4, ""ty"": -10}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_08_traslacion.png
+Huellas_3;8;H3_I08;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\escalado\imp_08_escalado.png
+Huellas_3;8;H3_I08;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\elastica\imp_08_elastica.png
+Huellas_3;8;H3_I08;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\presion\imp_08_presion.png
+Huellas_3;8;H3_I08;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_08_gaussiano.png
+Huellas_3;8;H3_I08;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_08_sal_pimienta.png
+Huellas_3;8;H3_I08;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\recorte\imp_08_recorte.png
+Huellas_3;8;H3_I08;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\8.png;Huellas_3\Impression_py\generacion_01\contraste\imp_08_contraste.png
+Huellas_3;9;H3_I09;original;{};Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\original\imp_09_original.png
+Huellas_3;9;H3_I09;rotacion;"{""angulo_grados"": 20}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_09_rotacion.png
+Huellas_3;9;H3_I09;traslacion;"{""tx"": 11, ""ty"": -15}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_09_traslacion.png
+Huellas_3;9;H3_I09;escalado;"{""factor"": 1.15}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\escalado\imp_09_escalado.png
+Huellas_3;9;H3_I09;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\elastica\imp_09_elastica.png
+Huellas_3;9;H3_I09;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\presion\imp_09_presion.png
+Huellas_3;9;H3_I09;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_09_gaussiano.png
+Huellas_3;9;H3_I09;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_09_sal_pimienta.png
+Huellas_3;9;H3_I09;recorte;"{""lado"": ""izquierda"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\recorte\imp_09_recorte.png
+Huellas_3;9;H3_I09;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\9.png;Huellas_3\Impression_py\generacion_01\contraste\imp_09_contraste.png
+Huellas_3;10;H3_I10;original;{};Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\original\imp_10_original.png
+Huellas_3;10;H3_I10;rotacion;"{""angulo_grados"": -10}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\rotacion\imp_10_rotacion.png
+Huellas_3;10;H3_I10;traslacion;"{""tx"": -12, ""ty"": 2}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\traslacion\imp_10_traslacion.png
+Huellas_3;10;H3_I10;escalado;"{""factor"": 0.85}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\escalado\imp_10_escalado.png
+Huellas_3;10;H3_I10;elastica;"{""amplitud_px"": 5}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\elastica\imp_10_elastica.png
+Huellas_3;10;H3_I10;presion;"{""metodo"": ""erosion_3x3""}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\presion\imp_10_presion.png
+Huellas_3;10;H3_I10;gaussiano;"{""sigma"": 20}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\gaussiano\imp_10_gaussiano.png
+Huellas_3;10;H3_I10;sal_pimienta;"{""proporcion"": 0.05}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\sal_pimienta\imp_10_sal_pimienta.png
+Huellas_3;10;H3_I10;recorte;"{""lado"": ""arriba"", ""fraccion_roi"": 0.2}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\recorte\imp_10_recorte.png
+Huellas_3;10;H3_I10;contraste;"{""factor"": 0.5}";Huellas_3\Impression_1\10.png;Huellas_3\Impression_py\generacion_01\contraste\imp_10_contraste.png
